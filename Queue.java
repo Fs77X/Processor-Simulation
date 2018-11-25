@@ -1,6 +1,4 @@
-//Farhan Saeed, Ayden Chubbic
 //CMPS12B/M
-//fasaeed achubbic
 //Queue.java
 //Queue, a circular linked list which we use to store job objects
 public class Queue implements QueueInterface {
