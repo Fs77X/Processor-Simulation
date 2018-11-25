@@ -1,6 +1,4 @@
-//Farhan Saeed, Ayden Chubbic
 //CMPS12B/M
-//fasaeed achubbic
 //QueueTest.java
 //QueueTest, a test file which we use to test our queue to see if its fully functioning
 public class QueueTest{
