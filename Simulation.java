@@ -1,6 +1,4 @@
-//Farhan Saeed, Ayden Chubbic
 //CMPS12B/M
-//fasaeed achubbic
 //Simulation.java
 //Simulation, a program in which uses Queue.java and Job.java to create a simulation of processors that "process" Jobs
 
